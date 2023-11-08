@@ -1,2 +1,0 @@
-# Fake-Reviews-Detection
-
